@@ -7,6 +7,6 @@
 
 * Team Lead - Anna McArdle  
 * Technical Lead - MaX Falstein  
-* Chief of Diagrams - Dominique Kiss  
+* Chief of Diagrams &amp; Filtration Designer - Dominique Kiss  
 * Hydrogen Control Unit Designer - Catherine Flory  
 * Rainwater Control Unit Designer - Aleks Todorov  
